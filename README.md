@@ -1,5 +1,5 @@
 # UY Sct
-**| English | [Simplified Chinese](README.md) |**
+**| English | [简体中文](README_CN.md) |**
 
 This tool is designed to solve the problems of unpacking, packing, and modifying img files.\
 This tool can be used for testing on both WSL and Ubuntu. Install the necessary packages with the following commands:
