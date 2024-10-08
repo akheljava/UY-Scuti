@@ -1,5 +1,5 @@
 # 盾牌座 UY 
-**| [English](README_EN.md) | 简体中文 |**
+**| [English](README.md) | 简体中文 |**
 
 该工具的目的是为了解决解包，打包，修改 img 麻烦的问题\
 使用该工具在 WSL 和 Ubuntu 测试均可使用，安装所需要的包：
